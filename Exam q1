@@ -19,12 +19,12 @@ a)  Write a subclass to Technology with a class called Smartphone.
 
 public class Smartphone extend Technology{
 
-private int.number;
-private String.name;
+ int.number;
+ String.name;
 
 public Smartphone(String name, int number){
-super(name, number)
-this.number=number
+super(name, number);
+this.number=number;
 this.name=name;
 }
 
