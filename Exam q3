@@ -48,6 +48,38 @@ public class Queue{
 --------------------------------------------------------------
 
 a)  Explain what a Stack is.  Specify if it is LIFO or FIFO.
+A Stack is a data structure that allows data to push and pop. A Stick is LIFO to mean that the last data to be pushed 
+will be the first data to be pop.
+
 b)  Complete the Stack class by writing the "pop" method.
+
+public Link pop(){
+Link = temp = head;
+head = head.next
+length = length -1;
+return temp;}
+
+stack tem1.tem2;
+temp1 = pile,pop();
+temp2 = pile.pop();
+pile.push(temp1);
+pile,push(temp2);
+
 c)  Explain what a Queue is.  Specify if it is LIFO or FIFO.
+It represents an list of objects. A queue is designed to have elements inserted at the end, and elements removed from the beginning.
 d)  Complete the Queue class by writing the "peek" and "remove" methods.
+
+public Link remove(){
+Link temp;
+for(int:20;:length){
+temp=open;
+
+public class Link{
+Object key;
+Link next;
+
+public Link peak(){
+Link temp = head;
+forlink = 1; :(length:i++){
+temp = temp.next3
+return temp;}
