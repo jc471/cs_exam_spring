@@ -11,4 +11,7 @@ public interface Greetings{
 -----------------------------------------------------
 
 a)  Explain what an interface is.
+       interface is a set of fields and method are specific.
+
 b)  Write a complete class for a language speaker of your choice, like ItalianSpeaker, which fully implements the interface.
+
