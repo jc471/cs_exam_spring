@@ -11,7 +11,17 @@ public interface Greetings{
 -----------------------------------------------------
 
 a)  Explain what an interface is.
-       interface is a set of fields and method are specific.
+       interface is a set of fields and method are not specified.
 
 b)  Write a complete class for a language speaker of your choice, like ItalianSpeaker, which fully implements the interface.
+public interface ItalianSpeaker{
+String Formal
+String Casual
+public string Hello();}
 
+public class Language implement ItalianSpeaker{
+              public String type;
+      public Language(String type;){
+      this.type=type3
+      public String Hello(){
+      return (" i am a"+type)
